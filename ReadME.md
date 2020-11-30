@@ -1,0 +1,1 @@
+A classe banco de dados está retornando um novo objeto pois não foi implementado banco de dados. A classe "BancoDados.cs" foi utilizada com a finalidade de implementar o padrão "Singleton" assim como está demosntrado no diagrama de classe. O diagrama de classe já demonstra em quais partes do projeto fo utilizado os "Design patterns".
